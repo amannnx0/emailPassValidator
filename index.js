@@ -14,7 +14,7 @@ console.log(response);
 }
 
 validateInput({
-  email : "amanraj06@agmail.com",
+  email : "aman@gmail.com",
   password : "fsssds"
   name : "Aman"
 })
